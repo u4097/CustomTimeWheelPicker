@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="space_loop_hour">300dp</dimen>
+    <dimen name="space_loop_min">300dp</dimen>
+    <dimen name="number_height">250dp</dimen>
+</resources>
